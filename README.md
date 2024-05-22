@@ -42,5 +42,5 @@
 
 ## Desenvolvedores/Contribuintes :octocat:
 
-|  [Feliphe Blatt](https://github.com/Feliphe-Blatt) | [Pedro Queiroga](https://github.com/PedroQueiroga9) | [Cauã Crispim](https://github.com/cauacrispimv) |
-| :---: | :---: | :---: 
+|  [Feliphe Blatt](https://github.com/Feliphe-Blatt) | [Pedro Queiroga](https://github.com/PedroQueiroga9) | [Cauã Crispim](https://github.com/cauacrispimv) | [Cristiane Nunes](https://github.com/cristiane-nunes-git)
+| :---: | :---: | :---: | :---:
